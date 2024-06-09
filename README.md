@@ -9,8 +9,8 @@ Feel free to explore my repositories to see my progress and the different techno
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/@.purplewitch.): **@.purplewitch.**
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parmida.mehrkhah@gmail.com): **parmida.mehrkhah@gmail.com**
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/@.purplewitch.) **@.purplewitch.**<br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parmida.mehrkhah@gmail.com) **parmida.mehrkhah@gmail.com**
 
 
 # 💻 Tech Stack:
