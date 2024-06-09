@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**Hexpur/Hexpur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm a beginner programmer passionate about web development. I'm eager to learn and grow in the field of programming. Here’s a bit more about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **React**
+- 👨‍💻 I'm familiar with **HTML**, **CSS**, **Sass**, **Bootstrap**, and **JavaScript**
+- 📚 I'm constantly learning new technologies and improving my skills
+- ⚡ Fun fact: I enjoy playing D&D, gaming, and drawing sketches, all of which inspire my programming creativity.
+
+
+## My Skills
+
+### Languages and Tools:
+- **HTML**
+- **CSS**
+- **Sass**
+- **Bootstrap**
+- **JavaScript**
+- **React** (learning)
+
+
