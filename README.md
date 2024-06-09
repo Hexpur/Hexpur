@@ -20,4 +20,18 @@ Hello! I'm a beginner programmer passionate about web development. I'm eager to 
 - **JavaScript**
 - **React** (learning)
 
+## Project-Based Learning
+I believe that the best way to learn programming is through hands-on experience. That's why I focus on project-based learning. My GitHub repositories include various projects that I have completed to enhance my skills and understanding of different technologies. Each project has a preview link attached, allowing you to see the work in action.
 
+Feel free to explore my repositories to see my progress and the different technologies I am working with.
+
+## Contact Me
+
+Feel free to reach out to me via the following platforms:
+
+- **GitHub:** [Your GitHub Profile](https://github.com/Hexpur)
+- **Email:** parmida.mehrkhah@gmail.com
+
+## Acknowledgements
+
+A special thanks to all the developers and contributors whose code, tutorials, and articles have helped me along the way.
