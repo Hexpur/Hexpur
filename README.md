@@ -27,10 +27,10 @@ Feel free to explore my repositories to see my progress and the different techno
 
 ## Contact Me
 
-Feel free to reach out to me via My email:
+Feel free to reach out to me via the following platforms:
 
 - **Email:** parmida.mehrkhah@gmail.com
-
+- **Discord:** @.purplewitch.
 ## Acknowledgements
 
 A special thanks to all the developers and contributors whose code, tutorials, and articles have helped me along the way.
