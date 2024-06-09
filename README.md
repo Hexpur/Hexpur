@@ -27,9 +27,8 @@ Feel free to explore my repositories to see my progress and the different techno
 
 ## Contact Me
 
-Feel free to reach out to me via the following platforms:
+Feel free to reach out to me via My email:
 
-- **GitHub:** [Your GitHub Profile](https://github.com/Hexpur)
 - **Email:** parmida.mehrkhah@gmail.com
 
 ## Acknowledgements
